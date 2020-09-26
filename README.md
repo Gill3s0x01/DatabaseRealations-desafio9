@@ -4,7 +4,7 @@ Desafio sobre Relacionamentos com banco de dados TypeORM no Node.js aplicado no 
 ## DatabaseRealations-desafio9
 
   <h3 align="center">
-    Uma aplicação que permite a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.👨🏻‍🚀
+    Uma aplicação que permite a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce 🛒.👨🏻‍🚀
   </h3>
   <p align="center">
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gilles30/DatabaseRealations-desafio9?color=1db954">
