@@ -51,7 +51,8 @@ Nesse projeto tive como principal objetivo praticar o que aprendemos com backend
 
   # 🎲* Já com o Docker em funcionamento * 
    
-  # Dentro do seu Client de conexção com banco de dados (Dbeaver, Beekeeper Studio entre outros...) criar dois BD com os nomes:
+  # Dentro do seu Client de conexção com banco de dados (Dbeaver, Beekeeper Studio entre outros...) 
+    #criar dois BD com os nomes:
   $ gostack_desafio09_tests
   $ gostack_desafio09
 
@@ -64,7 +65,7 @@ Nesse projeto tive como principal objetivo praticar o que aprendemos com backend
   # Executar o servidor:
   $ yarn dev:server
 
-  # Rodar a aplicação, use um app para faciliatr o uso (exemplo: Insomnia):
+  # Rodar a aplicação, use um app para facilitar o uso (exemplo: Insomnia):
   $ configure os parametros das rotas HTTP das requisições (POST, GET, DELETE, PUT)
   
   # Para rodar os testes:
