@@ -72,5 +72,7 @@ Nesse projeto tive como principal objetivo praticar o que aprendemos com backend
 ```
 :computer: 
 
+🥇 Se esse repositório te ajudou deixe seu apoio, de uma estrelinha ⭐
+
 
 Feito com 💜 por [Lorison Gilles](https://github.com/Gilles30) 🖖🏻👾☕
